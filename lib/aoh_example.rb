@@ -20,7 +20,7 @@ end
 
 def literal_aoh
   directors = [
-    DON_G,
+    { name:  "Don Gately", occupation: "Live-in Staff" },
     JOELLE_VD,
     PAT_M,
     KATE_G,
